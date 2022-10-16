@@ -4,7 +4,11 @@ Made by [Rocketseat](https://lp.rocketseat.com.br/inscricao/ignite-lab), the Ign
 
 ## Figma layout
 
-<img src="https://user-images.githubusercontent.com/65618765/195643538-cba3cbfe-978f-4bba-b577-bd9e7e047c08.png" width=80%>
+<img src="https://user-images.githubusercontent.com/65618765/196018210-14c1f725-cb17-4ce7-8cab-25f65ab01545.gif" width=80%>
+
+## Storybook Design System
+
+<img src="https://user-images.githubusercontent.com/65618765/196018290-09a17eba-d3bb-4a3d-a416-1ed030c4dd18.gif" width=80%>
 
 ## Tools
 
